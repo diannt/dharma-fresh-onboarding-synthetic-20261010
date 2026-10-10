@@ -1,0 +1,6 @@
+.dharma/
+.codex/
+node_modules/
+.env
+*.log
+reports/
